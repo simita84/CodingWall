@@ -1,0 +1,36 @@
+	 
+	.col-md-6
+	{
+		margin-top: 20px;
+		margin-left: 150px;
+	}
+	form #register
+	{
+		border:2px dotted black;
+		padding: 10px;
+	}
+	#warning,.error_message{
+		background: orange;
+	}
+	 
+	#text_message,#text_comment{
+		width: 700px;
+		height: 100px;
+	} 
+	.info{
+	background:#00FF00;
+   }
+	div{
+		margin: 20px;
+	}
+	.top_row{
+		border-bottom: 2px solid black;
+	} 
+	p{
+		font-size: 12px;
+		padding: 10px;
+	}
+	.delete_message{
+	 	background : url('images/delete.jpg') no-repeat;
+
+	}
